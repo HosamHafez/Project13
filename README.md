@@ -1,8 +1,12 @@
-# Project13
+# Project13 - Algo Practice and Additional Mini Project
+**Step 1**
+- [x] Sign up for free accounts on LeetCode, HackerRank, and CodeWars.
+- [x] Create a GitHub repository with 3 folders (one for each of the above platforms), and a brief README file with at least 2 sentences describing your repo
+- [x] Work on 2 - 3 beginner level challenges from any of the above platforms (or one from each!): [CodeWars](Codewars/Codewars.md) | [HackerRank](HackerRank/HackerRank.md) | [LeetCode](Leetcode/Leetcode.md)
+- [x] Push all of your code to the GitHub repo you created
+- [x] Submit a link to your repo and, if it’s a private repo, add your TA as a collaborator
 
-Sign up for free accounts on LeetCode, Hackerrank, and CodeWars.
-Create a GitHub repository with 3 folders (one for each of the above platforms), and a brief README file with at least 2 sentences describing your repository.
-Work on 2 - 3 beginner level challenges from any of the above platforms (or one from each!).
-In each folder, create a file (.txt, .js, etc.) containing the problem you attempted to solve, and your solution.
-NOTE: You can have a single file for each problem, or a single file for each website. It does not matter.
-Once you’re done, push all of your code to the GitHub repo you created.
+**Step 2: [Mini Project](https://github.com/claramaq/whatToEat)**
+- [x] Add mini project you completed outside of class to the projects section of your website. 
+- [x] Include a screenshot, a title, a brief description, and a link to the code on GitHub. 
+- [x] Submit the GitHub link below (again, if it’s a private repo, be sure to add your TA as a collaborator).
